@@ -1,0 +1,28 @@
+.tablediv{
+    text-align: center;
+font-family: cursive;
+display: flex;
+justify-content: center;
+
+}
+
+h1{
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+table, th, td{
+    border: 1px solid black;
+    
+}
+
+
+.rowcolor{
+        background-color: aquamarine;
+}
+
+.bold{
+    font-weight: bold;
+}
